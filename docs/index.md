@@ -1,22 +1,23 @@
 ---
-home: true
+layout: home
+
 hero:
-  name: "每日文档"
-  text: "记录日常点滴"
-  tagline: 一个简洁优雅的文档站点
+  name: "Everyday Doc"
+  text: "日常文档记录"
+  tagline: 记录学习与成长的点滴
   actions:
     - theme: brand
-      text: 快速开始
-      link: /guide/getting-started
+      text: 开始使用
+      link: /guide/
     - theme: alt
-      text: 查看笔记
-      link: /notes/
+      text: GitHub
+      link: https://github.com/yourusername/everyday_doc
+
 features:
-  - title: 简洁高效
-    details: 基于 VitePress，构建快速，体验流畅
-  - title: 易于维护
-    details: Markdown 编写，版本管理更方便
-  - title: 自动部署
-    details: GitHub Actions 自动部署到 GitHub Pages
-footer: MIT Licensed | Copyright © 2024-present
+  - title: 简洁至上
+    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
+  - title: 享受 Vue 开发体验
+    details: 在 Markdown 中使用 Vue 组件，同时享受 Vite 的极速开发体验。
+  - title: 高性能
+    details: 为每个页面预渲染静态 HTML，并在首次加载时使用 SPA 模式，实现极佳的加载性能。
 ---
