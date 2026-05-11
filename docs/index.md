@@ -2,8 +2,7 @@
 layout: home
 
 hero:
-  name: "Everyday Doc"
-  text: "日常文档记录"
+  name: "Everyday"
   tagline: 记录学习与成长的点滴
   actions:
     - theme: brand

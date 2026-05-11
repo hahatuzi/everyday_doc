@@ -1,4 +1,4 @@
-# Everyday Doc
+# Everyday
 
 日常文档记录站点，基于 VitePress 构建。
 

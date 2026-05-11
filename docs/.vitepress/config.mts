@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Everyday Doc",
+  title: "Everyday",
   description: "日常文档记录",
   base: '/everyday_doc/',
   // GitHub Pages 部署配置
@@ -29,7 +29,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yourusername/everyday_doc' }
+      { icon: 'github', link: 'https://github.com/hahatuzi/everyday_doc' }
     ],
 
     footer: {
