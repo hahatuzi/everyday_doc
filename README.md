@@ -22,8 +22,6 @@ npm run docs:preview
 
 项目使用 GitHub Actions 自动部署到 GitHub Pages。
 
-当你推送到 `main` 或 `master` 分支时，会自动触发部署流程。
-
 ## 项目结构
 
 ```
