@@ -10,7 +10,7 @@ hero:
       link: /guide/
     - theme: alt
       text: GitHub
-      link: https://github.com/yourusername/everyday_doc
+      link: https://github.com/hahatuzi/everyday_doc
 
 features:
   - title: 简洁至上
