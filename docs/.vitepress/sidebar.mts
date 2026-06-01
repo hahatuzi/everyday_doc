@@ -2,7 +2,11 @@ export default [
   {
     text: "笔记",
     items: [
-      { text: "项目规范打包CICD", collapsed: true, items: sidebarCICD() },
+      {
+        text: "项目优化规范+打包构建及部署",
+        collapsed: true,
+        items: sidebarCICD(),
+      },
     ],
   },
 ];
@@ -11,7 +15,7 @@ function sidebarCICD() {
   return [
     {
       text: "第2章：项目规范",
-      base: "/notes/项目规范打包CICD/第2章：项目规范/",
+      base: "/notes/项目优化规范+打包构建及部署/第2章：项目规范/",
       collapsed: true,
       items: [
         { text: "01_项目通用配置", link: "01_项目通用配置" },
