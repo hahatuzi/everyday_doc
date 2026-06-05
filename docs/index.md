@@ -13,7 +13,7 @@ hero:
       link: https://github.com/hahatuzi/everyday_doc
 
 features:
-  - title: 简洁至上
+  - title: Markdown
     details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
   - title: 享受 Vue 开发体验
     details: 在 Markdown 中使用 Vue 组件，同时享受 Vite 的极速开发体验。
