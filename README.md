@@ -20,7 +20,15 @@ npm run docs:preview
 
 ## 部署
 
-项目使用 GitHub Actions 自动部署到 GitHub Pages。
+```
+方式一:GitHub Actions
+  直接通过GitHub Actions 自动部署到 GitHub Pages
+  访问地址：https://hahatuzi.github.io/everyday_doc/
+方式二：私有服务器发布：Dockerfile + Docker Compose
+  - 第一步：文件上传至服务器
+  - 第二步：cd /usr/web/everyday_doc
+  - 第三步：docker compose up -d --build
+```
 
 ## 项目结构
 
